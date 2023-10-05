@@ -2,6 +2,7 @@
 Python app that detects Flour bag in a conveyor belt using OpenCV, to count the bags whenever they get to a specific area. 
 
 ## Resulting Output
+This is an output video from an ip camera using RSTP. 
 ![output gif](src/output.gif)
 
 ## Requirements 
