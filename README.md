@@ -3,3 +3,9 @@ Python app that detects Flour bag in a conveyor belt using OpenCV, a count the b
 
 ## Resulting Output
 ![output gif](src/output.gif)
+
+## Requirements 
+```bash
+numpy==1.19.5
+opencv_python==4.5.5.62
+```
